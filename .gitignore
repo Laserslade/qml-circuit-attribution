@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+train_8q_log.txt
+
+# Uncomment to exclude trained weights from version control:
+# *.npy
